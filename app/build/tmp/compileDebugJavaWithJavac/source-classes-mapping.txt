@@ -1,0 +1,16 @@
+com/example/apiappdemo/RetrofitInstance.java
+ com.example.apiappdemo.RetrofitInstance
+com/example/apiappdemo/Api.java
+ com.example.apiappdemo.Api
+com/example/apiappdemo/ClassAdapter.java
+ com.example.apiappdemo.ClassAdapter
+ com.example.apiappdemo.ClassAdapter$ClassViewHolder
+com/example/apiappdemo/TrnsList.java
+ com.example.apiappdemo.TrnsList
+com/example/apiappdemo/BuildConfig.java
+ com.example.apiappdemo.BuildConfig
+com/example/apiappdemo/Trns.java
+ com.example.apiappdemo.Trns
+com/example/apiappdemo/MainActivity.java
+ com.example.apiappdemo.MainActivity
+ com.example.apiappdemo.MainActivity$1
